@@ -1,0 +1,116 @@
+
+
+.navbar{
+    position: fixed;
+    width: 100%;
+    height: 10%;
+}
+
+.pright{
+    font-size: 20px;
+    color: rgba(160, 198, 198, 0.708);
+    padding-right: 3%;
+    padding-top: 11%;
+}
+.pleft{
+    font-size: 20px;
+    color: rgba(160, 198, 198, 0.708);
+    padding-left: 3%;
+    padding-top: 11%;
+}
+.pad{
+    padding: 2.79%;
+
+}
+h2{
+    color:aliceblue;
+    padding-left: 35%;
+    padding-top: 34px;
+    font-size:40px;
+
+}
+h1{
+    display: flex;
+    justify-content: space-around;
+    padding: 1%;
+    border-radius: 30px;
+    background-color:rgba(169, 169, 169, 0.132);
+    color: aliceblue;
+}
+body{
+    background-color: rgba(34, 34, 34, 0.9);
+}
+.img-fluid{
+    height: auto;
+    width: auto;
+    padding-left: 3%;
+    padding-top: 3%;
+}
+.nav-link{
+    font-size: 30px;
+    padding-left: 10%;
+}
+.footer{
+    color: white;
+}
+
+
+button{
+    display: flex;
+    justify-content: center;
+    font-size:10px;
+    padding:1%;
+}
+
+h3{
+    color:aliceblue;
+    padding-left: 10%;
+    padding-top: 34px;
+    font-size:40px;
+}
+h4{
+    color:aliceblue;
+    padding-left: 10%;
+    padding-top: 34px;
+    font-size:40px;
+}
+h5{
+    color:aliceblue;
+    padding-left: 10%;
+    padding-top: 34px;
+    font-size:40px;
+}
+footer{
+    color:rgba(255, 255, 255, 0.573);
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-bottom: 0%;
+    font-size:15px;
+}
+f1{
+    color:rgba(255, 255, 255, 0.573);
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-bottom: 10%;
+    font-size:15px;
+}
+.kontactlink{
+    color: darkgrey;
+}
+.tiertitel{
+    display: flex;
+    justify-content: space-around;
+    padding: 1%;
+    border-radius: 30px;
+    background-color:rgba(169, 169, 169, 0.132);
+    color: aliceblue;
+    
+}
+.linkback{
+    display: flex;
+    justify-content: space-around;
+    color: rgba(160, 198, 198, 0.708);
+    font-size: 30px;
+}
+
+

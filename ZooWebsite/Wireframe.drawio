@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2024-03-06T13:00:41.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="dDsvq7Q1zIKDPbqnTX2q" version="22.1.20" type="device">
+  <diagram name="Seite-1" id="IwnARm_X4I3ZsT4ffQFU">
+    <mxGraphModel dx="1285" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MKQD-TEI55rZlF3Uap5L-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="550" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="MKQD-TEI55rZlF3Uap5L-3" value="Dschungel in Zürich" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MKQD-TEI55rZlF3Uap5L-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="70" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="MKQD-TEI55rZlF3Uap5L-5" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="405" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
